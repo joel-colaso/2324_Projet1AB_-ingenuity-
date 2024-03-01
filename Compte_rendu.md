@@ -7,7 +7,7 @@ Mars 2020 est une mission spatiale qui consiste à déployer l'astromobile (rove
 Ingenuity est un petit hélicoptère développé par l'agence spatiale Américaine, la NASA. Il est mis en oeuvre à titre expérimental sur le sol de la planète Mars au cours de la mission Mars 2020.
 L'hélicoptère est embarqué à bord du rover Perseverance. 
 
-Le 19 avril 2021, pour la première fois dans l'histoire de l'ère spatiale, un engin effectue un vol motorisé dans l'atmosphère ténue d'une autre planète. L'objectif d'Ingenuity est la reconnaissance optique du terrain, l'hélicoptère réalise de nombreuses photos aériennes utiliées par les pilotes de l'astromobile Perseverance pour identifier les obstacles et les sites prometteurs (prelèvement d'échantillons rocheux sur le sol martien). 
+Le 19 avril 2021, pour la première fois dans l'histoire de l'ère spatiale, un engin effectue un vol motorisé dans l'atmosphère ténue d'une autre planète. L'objectif d'Ingenuity est la reconnaissance optique du terrain, l'hélicoptère réalise de nombreuses photos aériennes utiliées par les pilotes de l'astromobile Perseverance pour identifier les obstacles et les sites prometteurs (prelèvement d'échantillons rocheux sur le sol martien). En effet, L'atmosphère très ténue (suelemnt 1% de la pression atmosphérique présente sur Terre) n'offre qu'une portance très faible et la mise au point d'un aérobot est par conséquent plus difficile. 
 
 Ingenuity est un hélicoptère de 1,8 kg disposant de 2 rotors contrarotatifs coaxiaux. Il tire son énergie de 6 batteries lithium-ion rechargées par des cellules solaires. Son système de navigation lui permet de suivre sans intervention humaine un trajet pré-programmé. Sa seule charge utile est une caméra. 
 
