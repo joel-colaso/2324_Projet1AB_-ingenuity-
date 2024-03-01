@@ -26,7 +26,7 @@ le site de la NASA donnant de nombreuses informations sur Ingenuity: (https://ma
 
 ## Séance 1: Exploration du fonctionnement de l'hélicoptère
 
-Compréhension du mode de fontionnement des élices d'un hélicoptère. 
+Compréhension du mode de fontionnement des hélices d'un hélicoptère. 
 
 Difficultés 
 
