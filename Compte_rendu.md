@@ -32,5 +32,7 @@ Difficultés
 
 Solutions
 
+![image](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329228/59e2118a-dfb3-443d-ade8-e27f2dd18542)
+
 
 
