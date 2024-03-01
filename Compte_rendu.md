@@ -43,7 +43,7 @@ L'énergie est le principal facteur limitant concernant les capacités de l'hél
 ### Capteurs: 
 
 - une caméra de navigation
-- 2 centrales à inertie 3 axes
+- 2 centrales à inertie 3 axes (accélération et vitesse de rotation)
 - inclinomètre 2 axes
 - altimètre
 
