@@ -1,6 +1,6 @@
-### Projet Ingenuity 
+## Projet Ingenuity 
 
-## Introduction: Ingenuity dans le cadre de la mission Mars 2020. 
+### Introduction: Ingenuity dans le cadre de la mission Mars 2020. 
 
 Mars 2020 est une mission spatiale qui consiste à déployer l'astromobile (rover) Perseverance sur le sol martien pour étudier sa surface et collecter des échnatillons du sol. Elle constitue la première d'une série de trois missions dont l'objectif final est de ramener ces échantillons sur Terre pour leur analyse. 
 
@@ -16,13 +16,13 @@ La mission s'est récemment arrêtée (18 janvier 2024) en raison de la casse d'
 Ingenuity a ouvert de nouvelles perspectives pour l'exploration de Mars. La NASA et l'ESA, dans leur mission de retour d'échantillons martien, incluent maintenant 2 hélicopères similaires qui seront chargés de collecter les tubes contenant les échantillons martien déposés par l'astromobile Perseverance en cas de panne de celui-ci. 
 
 
-## Première approche de l'anatomie de l'hélicoptère Martien
+### Première approche de l'anatomie de l'hélicoptère Martien
 
 le site de la NASA donnant de nombreuses informations sur Ingenuity: (https://mars.nasa.gov/technology/helicopter/#)
 
 
 
-## Séance 1: Exploration du fonctionnement de l'hélicoptère
+### Séance 1: Exploration du fonctionnement de l'hélicoptère
 
 Compréhension du mode de fontionnement des élices d'un hélicoptère. 
 
