@@ -16,4 +16,4 @@ Ingenuity a ouvert de nouvelles perspectives pour l'exploration de Mars. La NASA
 Dans  ce projet, nous allons tâcher de reproduire le module Ingenuity. 
 
 
-![image](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329228/a2db7497-c623-4e4c-9eec-79b52c2cb2cd)
+![Photo ingenuity](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329228/e31ebabd-f48c-485a-bf0c-799dc236c984)
