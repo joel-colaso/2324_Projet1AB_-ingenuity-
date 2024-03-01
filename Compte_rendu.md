@@ -30,5 +30,7 @@ La compréhension du mode de fontionnement des hélices d'un hélicoptère nous 
 
 ![image](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329228/59e2118a-dfb3-443d-ade8-e27f2dd18542)
 
+Type d'aéronef: l'utilisation de rotors contrarotatifs coaxiaux permet de gagner n encombrement par rapport au recours à un rotor anticouple. 
+
 ## Séance 2: schéma d'architecture et cahier des charges 
 
