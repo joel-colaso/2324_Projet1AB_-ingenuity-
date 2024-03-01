@@ -18,7 +18,7 @@ Ingenuity a ouvert de nouvelles perspectives pour l'exploration de Mars. La NASA
 
 ## Première approche de l'anatomie de l'hélicoptère Martien
 
-le site de la NASA donnant de nombreuses informations sur Ingenuity: (https://mars.nasa.gov/technology/helicopter/#)
+Le site de la NASA donnant de nombreuses informations sur Ingenuity: (https://mars.nasa.gov/technology/helicopter/#)
 
 <img width="1014" alt="Capture d’écran 2024-02-26 à 14 47 01" src="https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329228/ec56dfa6-b859-430e-8665-364e45866630">
 
@@ -26,13 +26,9 @@ le site de la NASA donnant de nombreuses informations sur Ingenuity: (https://ma
 
 ## Séance 1: Exploration du fonctionnement de l'hélicoptère
 
-Compréhension du mode de fontionnement des hélices d'un hélicoptère. 
-
-Difficultés 
-
-Solutions
+La compréhension du mode de fontionnement des hélices d'un hélicoptère nous permet de soulever de premières difficultés: il faut des hélices de petites tailles qui sont coaxiales et contrarotatives, des pièces qu'il nous ai impossible de construire nous même (impression 3D). Une solution que nous avons pouvons mettre en place est l'utilisation d'hélices prélevées sur un hélicoptère télécommandé. On démontera l'appareil pour ne garder que les hélices sur l'axe et les moteurs, tout l'éléctronique sera reconstruit selon notre cahier des charges. 
 
 ![image](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329228/59e2118a-dfb3-443d-ade8-e27f2dd18542)
 
-
+## Séance 2: schéma d'architecture et cahier des charges 
 
