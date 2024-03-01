@@ -26,6 +26,8 @@ Le site de la NASA donnant de nombreuses informations sur Ingenuity: (https://ma
 
 ## Séance 1: Exploration du fonctionnement de l'hélicoptère
 
+L'hélicoptère se déplace dans les airs grâce à deux rotors contrarotatifs coaxiaux bipales. La vitesse de rotation est comprise entre 2400 et 2900 tours par minute, soit dix fois celle d'un rotor principal d'hélicoptère sur terre, pour pouvoir être efficace dans l'air peu dense de Mars. C'est une condition que nous ne pourrons pas remplir. 
+
 La compréhension du mode de fontionnement des hélices d'un hélicoptère nous permet de soulever de premières difficultés: il faut des hélices de petites tailles qui sont coaxiales et contrarotatives, des pièces qu'il nous ai impossible de construire nous même (impression 3D). Une solution que nous avons pouvons mettre en place est l'utilisation d'hélices prélevées sur un hélicoptère télécommandé. On démontera l'appareil pour ne garder que les hélices sur l'axe et les moteurs, tout l'éléctronique sera reconstruit selon notre cahier des charges. 
 
 ![image](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329228/59e2118a-dfb3-443d-ade8-e27f2dd18542)
