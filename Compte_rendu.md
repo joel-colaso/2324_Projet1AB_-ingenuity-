@@ -51,6 +51,7 @@ L'énergie est le principal facteur limitant concernant les capacités de l'hél
 
 Compte tenu du délais de communication Mars-Terre (une dizaine de minutes dans des conditions favorables), l'hélicoptère vol de manière autonome en appliquant des instructions transmises au préalable. En vol, l'hélicoptère ne reçoit pas mais émet pour communiquer les données collectées. 
 
+### Avionique et processeurs:
 
 ## Séance 2: schéma d'architecture et cahier des charges 
 
