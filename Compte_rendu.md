@@ -53,5 +53,15 @@ Compte tenu du délais de communication Mars-Terre (une dizaine de minutes dans 
 
 ### Avionique et processeurs:
 
+L'avionique est répartie sur 5 circuits imprimés, dont 4 forment les côtés du fuselage cubique et le cinquième sa partie intèrieure. L'ordinateur embarqué utilise un microporcesseur Snapdragon cadencé à 2,26 Ghz et doté d'une mémoire vive de 2 Go et d'une mémoire flash de 32 Go. L'ordinateur prend en charge la fonction de navigation et pilote les rotors via deux microcontroleurs redondants. Le logiciel qui tourne sur le microporcesseur est assisité par un circuit intégré de type FPGA, qui prend en charge certaines fonctionnalités comme le contrôle d'altitiude, la gestion des entrées-sorties sur la centrale à inertie, de l'altimètre et de l'inclinomètre, et la gestion des télécommunications. Le FPGA est une version militarisée du ProASIC3L de MicroSemi. Le système d'exploitation est GNU/Linux. 
+
+
 ## Séance 2: schéma d'architecture et cahier des charges 
 
+
+
+### Sources: 
+
+https://mars.nasa.gov/technology/helicopter/#Tech-Specs
+
+https://fr.wikipedia.org/wiki/Ingenuity_(hélicoptère)
