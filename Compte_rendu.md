@@ -15,6 +15,7 @@ La mission s'est récemment arrêtée (18 janvier 2024) en raison de la casse d'
 
 Ingenuity a ouvert de nouvelles perspectives pour l'exploration de Mars. La NASA et l'ESA, dans leur mission de retour d'échantillons martien, incluent maintenant 2 hélicopères similaires qui seront chargés de collecter les tubes contenant les échantillons martien déposés par l'astromobile Perseverance en cas de panne de celui-ci. 
 
+La mission Mars Sample Return sera la première utilisation opérationnelle d'Ingenuity. Développée par la NASA en collaboration avec l'Agence spatiale européenne, elle a pour objectif de ramener sur Terre les échantillons de sol martien prélevés par l'astromobile Perseverance. Pour remplir cet objectif la mission prévoit d'envoyer un atterrisseur, Sample Retrieval Lander (SRL), emportant un bras téléopéré permettant de récupérer les tubes contenant les échantillons de sol. Si ces derniers se trouvent hors de portée de l'atterrisseur à la suite d'une panne de Perseverance, SRL dispose de deux hélicoptères Sample Recovery Helicopter, directement dérivés de l'hélicoptère Ingenuity, équipés d'une pince pour récupérer les tubes là où ils ont été déposés.
 
 ## Première approche de l'anatomie de l'hélicoptère Martien
 
