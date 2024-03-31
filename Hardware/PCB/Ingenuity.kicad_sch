@@ -7274,7 +7274,7 @@
 			)
 		)
 	)
-	(global_label "USART2_RX"
+	(global_label "USART1_RX"
 		(shape input)
 		(at 205.74 59.69 0)
 		(fields_autoplaced yes)
@@ -7318,7 +7318,7 @@
 			)
 		)
 	)
-	(global_label "USART2_TX"
+	(global_label "USART1_TX"
 		(shape input)
 		(at 205.74 62.23 0)
 		(fields_autoplaced yes)
@@ -7342,7 +7342,7 @@
 	)
 	(global_label "PWM1"
 		(shape input)
-		(at 151.13 50.8 0)
+		(at 151.13 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7352,7 +7352,7 @@
 		)
 		(uuid "2071f63a-525b-4bd6-bc0f-d9986c727abc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.4975 50.8 0)
+			(at 159.4975 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7540,7 +7540,7 @@
 	)
 	(global_label "PWM2"
 		(shape input)
-		(at 151.13 58.42 0)
+		(at 151.13 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7550,7 +7550,7 @@
 		)
 		(uuid "648dc803-c5e3-4767-b1f6-2b31ca74c980")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.4975 58.42 0)
+			(at 159.4975 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7606,7 +7606,7 @@
 	)
 	(global_label "PWM3"
 		(shape input)
-		(at 151.13 30.48 0)
+		(at 151.13 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7616,7 +7616,7 @@
 		)
 		(uuid "7c3aad87-15e9-4179-a631-8fa8ff532a21")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.4975 30.48 0)
+			(at 159.4975 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7650,7 +7650,7 @@
 	)
 	(global_label "PWM4"
 		(shape input)
-		(at 151.13 33.02 0)
+		(at 151.13 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7660,7 +7660,7 @@
 		)
 		(uuid "810b7c6d-e7fc-405f-a8c1-ccd7f032b923")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.4975 33.02 0)
+			(at 159.4975 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
