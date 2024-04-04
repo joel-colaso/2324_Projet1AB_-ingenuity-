@@ -8444,7 +8444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01ec2c35-7753-45e3-8625-9a2d16762f37")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR034"
 			(at 109.22 44.45 0)
 			(effects
 				(font
@@ -8494,7 +8494,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR07")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -8510,7 +8510,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05a377c7-34d0-4a5c-819a-13bf11cbf00b")
-		(property "Reference" "C11"
+		(property "Reference" "C8"
 			(at 184.15 136.6138 0)
 			(effects
 				(font
@@ -8564,7 +8564,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C11")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8580,7 +8580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06195bc8-e4d3-4bbb-b87d-3d40d76a5c09")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR047"
 			(at 171.45 120.65 0)
 			(effects
 				(font
@@ -8630,7 +8630,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR039")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -8646,7 +8646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "063e35ae-582b-4fc1-80f7-1703ed6d3df5")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR02"
 			(at 35.56 129.54 0)
 			(effects
 				(font
@@ -8696,7 +8696,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR032")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8712,7 +8712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b14a883-2723-4a7c-acd7-294745ef62a8")
-		(property "Reference" "SW101"
+		(property "Reference" "SW2"
 			(at 171.45 27.9399 90)
 			(effects
 				(font
@@ -8766,7 +8766,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "SW101")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -8782,7 +8782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15cccfba-ee89-4e1f-be67-b9eecd898e88")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR033"
 			(at 102.87 154.94 0)
 			(effects
 				(font
@@ -8832,7 +8832,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR050")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -8915,7 +8915,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d558167-27cd-411e-9277-e98a5ccdde24")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR046"
 			(at 171.45 101.6 0)
 			(effects
 				(font
@@ -8965,7 +8965,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR038")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -8981,7 +8981,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e604c71-fd4f-4a8c-83f5-92241b860342")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR030"
 			(at 93.98 154.94 0)
 			(effects
 				(font
@@ -9031,7 +9031,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR049")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -9047,7 +9047,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2140db7b-66c7-4200-a17e-656fc44aaee8")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 45.72 92.71 0)
 			(effects
 				(font
@@ -9123,7 +9123,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -9139,7 +9139,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "216e58aa-4066-41cc-b850-569fdf2ec21f")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR054"
 			(at 207.01 118.11 0)
 			(effects
 				(font
@@ -9189,7 +9189,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR09")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -9205,7 +9205,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "230b9a37-f317-4970-bc2e-1f1711d3cafa")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR020"
 			(at 58.42 160.02 0)
 			(effects
 				(font
@@ -9255,7 +9255,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR037")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -9271,7 +9271,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24677279-54c3-4f88-bfe0-d5dd1c5b196c")
-		(property "Reference" "J5"
+		(property "Reference" "J7"
 			(at 181.61 99.0599 0)
 			(effects
 				(font
@@ -9325,7 +9325,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "J5")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -9341,7 +9341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "291e5743-c41c-4705-91f4-f7372d3911aa")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR037"
 			(at 111.76 154.94 0)
 			(effects
 				(font
@@ -9391,7 +9391,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR051")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -9407,7 +9407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29d66825-89bb-48a1-b77d-44d4ba5fbc27")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR023"
 			(at 82.55 97.79 0)
 			(effects
 				(font
@@ -9458,7 +9458,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR040")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -9474,7 +9474,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b26f7a9-188b-4ba4-b812-5721ceeb439c")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 114.3 134.6199 0)
 			(effects
 				(font
@@ -9528,7 +9528,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -9544,7 +9544,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cf2c268-6e73-477c-9911-817d682e63bc")
-		(property "Reference" "D101"
+		(property "Reference" "D3"
 			(at 102.87 180.6574 90)
 			(effects
 				(font
@@ -9598,7 +9598,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "D101")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -9614,7 +9614,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2eba6e30-2e3a-4eb9-880b-111ffb0178d7")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR019"
 			(at 62.23 68.58 0)
 			(effects
 				(font
@@ -9665,7 +9665,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR020")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -9681,7 +9681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fa5762a-e094-49fe-b406-21f448a3d12f")
-		(property "Reference" "U4"
+		(property "Reference" "U3"
 			(at 158.75 128.27 0)
 			(effects
 				(font
@@ -9736,7 +9736,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "U4")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -9752,7 +9752,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "323759d7-a8b3-4f56-a8bf-ed4916e6de70")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR044"
 			(at 158.75 157.48 0)
 			(effects
 				(font
@@ -9802,7 +9802,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR043")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -9818,7 +9818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33081929-abee-43f6-b953-4d2f04d18aed")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR03"
 			(at 35.56 137.16 0)
 			(effects
 				(font
@@ -9868,7 +9868,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR031")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -9884,7 +9884,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3324cebb-5ad9-42c9-ad05-2bf08f2c1809")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR042"
 			(at 138.43 83.82 0)
 			(effects
 				(font
@@ -9934,7 +9934,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR04")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -9950,7 +9950,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3998b501-7d0d-40bc-89b4-b06342e072db")
-		(property "Reference" "C7"
+		(property "Reference" "C5"
 			(at 113.03 73.6662 0)
 			(effects
 				(font
@@ -10004,7 +10004,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C7")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -10020,7 +10020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a304814-b4e0-433c-8dd0-34a4a1f2b158")
-		(property "Reference" "R3"
+		(property "Reference" "R10"
 			(at 161.29 102.87 90)
 			(effects
 				(font
@@ -10072,7 +10072,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "R3")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -10088,7 +10088,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b46924e-b8d7-4d8b-a847-e758e27efa5a")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR057"
 			(at 242.57 71.12 0)
 			(effects
 				(font
@@ -10138,7 +10138,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR01")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -10154,7 +10154,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c2893d4-d242-4a0a-954d-336d15935705")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 230.7941 134.62 0)
 			(effects
 				(font
@@ -10245,7 +10245,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -10408,7 +10408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "468f152a-6481-45d0-8e0b-a40180fe9213")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR014"
 			(at 52.07 30.48 0)
 			(effects
 				(font
@@ -10459,7 +10459,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR015")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -10475,7 +10475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46fdbcd9-346d-4714-ad6c-9babda9cf14d")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR026"
 			(at 92.71 115.57 0)
 			(effects
 				(font
@@ -10526,7 +10526,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR047")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -10542,7 +10542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "470be619-2dd5-41ba-9fa7-af3d0d662fcb")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR056"
 			(at 231.14 100.33 0)
 			(effects
 				(font
@@ -10592,7 +10592,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR08")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -10608,7 +10608,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "497f7875-9045-418e-9f2b-d1eb44cb434e")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR031"
 			(at 99.06 191.77 0)
 			(effects
 				(font
@@ -10658,7 +10658,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR0103")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -10674,7 +10674,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b0be0b6-88e5-402c-aad2-5d7b0a2e7b01")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR025"
 			(at 82.55 113.03 0)
 			(effects
 				(font
@@ -10725,7 +10725,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR048")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -10741,7 +10741,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e5c11c3-9fcf-4bde-a230-bf6c006ada6a")
-		(property "Reference" "D103"
+		(property "Reference" "D1"
 			(at 91.44 180.6574 90)
 			(effects
 				(font
@@ -10795,7 +10795,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "D103")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -10811,7 +10811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ee57221-8cb0-4414-b71d-b4d3935f42b4")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 97.79 143.8274 90)
 			(effects
 				(font
@@ -10865,7 +10865,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -10881,7 +10881,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5131fd83-361b-44cf-aeda-fc53a8f4d4c9")
-		(property "Reference" "D3"
+		(property "Reference" "D6"
 			(at 115.57 143.8274 90)
 			(effects
 				(font
@@ -10935,7 +10935,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "D3")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -10951,7 +10951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57a59ce7-b9ce-4a82-b4a3-c40042c61db2")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 49.53 21.59 0)
 			(effects
 				(font
@@ -11117,7 +11117,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -11133,7 +11133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58f75da7-fcb5-4024-9f31-3ce85e57eb02")
-		(property "Reference" "C5"
+		(property "Reference" "C2"
 			(at 95.25 73.6662 0)
 			(effects
 				(font
@@ -11187,7 +11187,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C5")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -11203,7 +11203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5dc89856-4293-4056-938f-f828dc08accf")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR043"
 			(at 146.05 137.16 0)
 			(effects
 				(font
@@ -11253,7 +11253,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR042")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -11269,7 +11269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fc380cf-242d-4d76-8fe9-4b5c5f27a08a")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR029"
 			(at 93.98 135.89 0)
 			(effects
 				(font
@@ -11319,7 +11319,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR044")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -11335,7 +11335,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "645e379f-66ef-49b5-9584-79d9edc8b53c")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR036"
 			(at 111.76 135.89 0)
 			(effects
 				(font
@@ -11385,7 +11385,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR046")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -11401,7 +11401,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68d4ae9d-1088-469e-8fc4-eb4820896fe0")
-		(property "Reference" "R4"
+		(property "Reference" "R3"
 			(at 96.52 134.6199 0)
 			(effects
 				(font
@@ -11455,7 +11455,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "R4")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -11471,7 +11471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69ad484e-ce70-4020-8517-8018c4f6a677")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR015"
 			(at 62.23 33.02 0)
 			(effects
 				(font
@@ -11522,7 +11522,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR016")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -11538,7 +11538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b42d0cf-810a-4470-8714-ac64913da02d")
-		(property "Reference" "J8"
+		(property "Reference" "J5"
 			(at 96.52 114.2999 0)
 			(effects
 				(font
@@ -11595,7 +11595,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "J8")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -11611,7 +11611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d7f4319-b4be-4469-b7c5-213ff2876e99")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR022"
 			(at 87.63 191.77 0)
 			(effects
 				(font
@@ -11661,7 +11661,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR0107")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -11677,7 +11677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ee03206-be35-4aa6-8676-b70732dc3e63")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR039"
 			(at 133.35 101.6 0)
 			(effects
 				(font
@@ -11727,7 +11727,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR055")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -11743,7 +11743,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6fb4d026-320a-46e3-a5f3-bff198705bb7")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR016"
 			(at 62.23 43.18 0)
 			(effects
 				(font
@@ -11794,7 +11794,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR017")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -11810,7 +11810,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71443bb6-35bd-42a2-abf8-28684c66207b")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR05"
 			(at 36.83 38.1 0)
 			(effects
 				(font
@@ -11861,7 +11861,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR023")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -11877,7 +11877,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "72d4d2ed-a7f4-47d7-9630-3d6cc98eb127")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR058"
 			(at 242.57 107.95 0)
 			(effects
 				(font
@@ -11927,7 +11927,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR011")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -11943,7 +11943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7329f46a-af5a-4445-a7cf-a90f05204f2e")
-		(property "Reference" "R1"
+		(property "Reference" "R8"
 			(at 118.11 38.0999 0)
 			(effects
 				(font
@@ -11997,7 +11997,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "R1")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -12013,7 +12013,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73e01957-9ab0-499e-902a-826da2ea59f8")
-		(property "Reference" "D102"
+		(property "Reference" "D5"
 			(at 114.3 180.6574 90)
 			(effects
 				(font
@@ -12067,7 +12067,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "D102")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -12083,7 +12083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79198c96-c0e8-4b3e-8bce-33df9054f66b")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR018"
 			(at 62.23 63.5 0)
 			(effects
 				(font
@@ -12134,7 +12134,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR019")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -12150,7 +12150,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ba77454-abfb-4358-acae-ece44de41d7e")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR021"
 			(at 60.96 128.27 0)
 			(effects
 				(font
@@ -12200,7 +12200,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR033")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -12216,7 +12216,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f5570d7-ef78-4c83-8e18-e78134894f5b")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR04"
 			(at 33.02 104.14 0)
 			(effects
 				(font
@@ -12267,7 +12267,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR027")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -12353,7 +12353,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "835c8d56-243a-47f7-a249-963c28d4f56c")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR035"
 			(at 110.49 191.77 0)
 			(effects
 				(font
@@ -12403,7 +12403,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR0105")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -12419,7 +12419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "868428d6-8cd6-4517-8465-d8319ed3d194")
-		(property "Reference" "C2"
+		(property "Reference" "C9"
 			(at 236.2263 93.98 90)
 			(effects
 				(font
@@ -12471,7 +12471,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C2")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -12487,7 +12487,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87dee94b-350d-466b-9b68-f669db8355c4")
-		(property "Reference" "C9"
+		(property "Reference" "C1"
 			(at 31.75 160.7438 0)
 			(effects
 				(font
@@ -12541,7 +12541,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C9")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -12557,7 +12557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88114424-735a-42b6-a1c8-314388cf7718")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 44.45 151.13 0)
 			(effects
 				(font
@@ -12612,7 +12612,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -12628,7 +12628,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "88dbaf31-9aed-49b9-96fb-30aa6a1bca3a")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR049"
 			(at 181.61 157.48 0)
 			(effects
 				(font
@@ -12678,7 +12678,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR054")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -12694,7 +12694,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a38b0dd-082e-4434-9827-5c39b4cd8e46")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR01"
 			(at 29.21 160.02 0)
 			(effects
 				(font
@@ -12744,7 +12744,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR035")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -12760,7 +12760,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8aaf1a0c-50b1-4599-9abe-399aebdc97d5")
-		(property "Reference" "C8"
+		(property "Reference" "C6"
 			(at 121.92 73.6662 0)
 			(effects
 				(font
@@ -12814,7 +12814,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C8")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -12830,7 +12830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "909fa2d5-d060-44f7-bef6-aa5779fb8d0d")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR028"
 			(at 92.71 86.36 0)
 			(effects
 				(font
@@ -12880,7 +12880,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR05")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -12963,7 +12963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9429c474-74ea-4314-9526-047f92b14f0f")
-		(property "Reference" "J1"
+		(property "Reference" "J8"
 			(at 181.61 48.2599 0)
 			(effects
 				(font
@@ -13053,7 +13053,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "J1")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -13069,7 +13069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96de9ddc-248a-42a4-85e9-fb094e6c2271")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR032"
 			(at 102.87 135.89 0)
 			(effects
 				(font
@@ -13119,7 +13119,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR045")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -13135,7 +13135,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "97234612-4cc0-402e-beb4-3a68d0644cdc")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR053"
 			(at 207.01 115.57 0)
 			(effects
 				(font
@@ -13185,7 +13185,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR010")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -13201,7 +13201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bd2089c-8ac3-4c26-aa06-353de02db6e7")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR017"
 			(at 62.23 50.8 0)
 			(effects
 				(font
@@ -13252,7 +13252,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR018")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -13269,7 +13269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9dfd8db0-1c14-4a43-8358-d47e633ba624")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR038"
 			(at 115.57 49.53 0)
 			(effects
 				(font
@@ -13319,7 +13319,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR03")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -13335,7 +13335,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f28cf21-01ed-4355-8f66-dbbd8fe76bea")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR08"
 			(at 43.18 140.97 0)
 			(effects
 				(font
@@ -13385,7 +13385,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR034")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -13401,7 +13401,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f343b91-d3f0-4695-842e-ea9c13496f1d")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR09"
 			(at 44.45 175.26 0)
 			(effects
 				(font
@@ -13451,7 +13451,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR036")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -13467,7 +13467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a014d8b4-7781-41e9-bd4f-af2a232d49d8")
-		(property "Reference" "D2"
+		(property "Reference" "D4"
 			(at 106.68 143.8274 90)
 			(effects
 				(font
@@ -13521,7 +13521,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "D2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -13537,7 +13537,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1af1310-97a0-4792-be6c-43300b8ea3e0")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR050"
 			(at 190.5 73.66 0)
 			(effects
 				(font
@@ -13587,7 +13587,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR025")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -13603,7 +13603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a249c8ee-4337-4e6d-b3e7-b09175d9a54b")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR052"
 			(at 193.04 73.66 0)
 			(effects
 				(font
@@ -13653,7 +13653,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR024")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -13669,7 +13669,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a95ad137-b462-4b43-90df-88082e5dadc3")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR027"
 			(at 92.71 73.66 0)
 			(effects
 				(font
@@ -13719,7 +13719,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR012")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -13735,7 +13735,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2187a56-5d1a-4b64-850b-565a59bb09f9")
-		(property "Reference" "J4"
+		(property "Reference" "J1"
 			(at 29.21 120.65 0)
 			(effects
 				(font
@@ -13787,7 +13787,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "J4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -13803,7 +13803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b24fa251-7f44-4097-90a6-41451302465f")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR07"
 			(at 36.83 76.2 0)
 			(effects
 				(font
@@ -13854,7 +13854,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR021")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -13870,7 +13870,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5980f4e-4952-4053-8305-40918a8a0506")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR06"
 			(at 36.83 58.42 0)
 			(effects
 				(font
@@ -13921,7 +13921,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR022")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -13937,7 +13937,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8045dcc-6e0d-4fd8-8251-ca7f85efb36a")
-		(property "Reference" "C1"
+		(property "Reference" "C4"
 			(at 113.03 33.0199 0)
 			(effects
 				(font
@@ -13991,7 +13991,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C1")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -14007,7 +14007,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b810ab0f-c40b-4a0a-ad3d-09eb0c6eee25")
-		(property "Reference" "J9"
+		(property "Reference" "J6"
 			(at 143.51 99.0599 0)
 			(effects
 				(font
@@ -14061,7 +14061,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "J9")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -14077,7 +14077,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf431da8-23bf-4782-a687-dc6e1e45d253")
-		(property "Reference" "R2"
+		(property "Reference" "R1"
 			(at 45.72 129.5399 0)
 			(effects
 				(font
@@ -14131,7 +14131,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "R2")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -14147,7 +14147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1639803-ddf1-4d47-98da-0abc7c084af4")
-		(property "Reference" "C3"
+		(property "Reference" "C7"
 			(at 148.59 140.4238 0)
 			(effects
 				(font
@@ -14201,7 +14201,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C3")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -14217,7 +14217,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1ef4053-8d2d-468f-907b-a05d4081de46")
-		(property "Reference" "J7"
+		(property "Reference" "J4"
 			(at 96.52 99.0599 0)
 			(effects
 				(font
@@ -14274,7 +14274,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "J7")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -14290,7 +14290,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3929a99-1e37-4ded-9d62-e3a40a0a7ea4")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR040"
 			(at 133.35 120.65 0)
 			(effects
 				(font
@@ -14340,7 +14340,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR056")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -14356,7 +14356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cab8aeed-d11b-4ba0-a941-ac08d70e914c")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR041"
 			(at 138.43 26.67 0)
 			(effects
 				(font
@@ -14406,7 +14406,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR02")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -14422,7 +14422,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d03917d6-8257-4efd-a959-e7a1c1af619c")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR024"
 			(at 92.71 100.33 0)
 			(effects
 				(font
@@ -14473,7 +14473,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR041")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -14489,7 +14489,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d05f9177-8a5c-4bab-a3bb-c29de873794c")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR013"
 			(at 52.07 27.94 0)
 			(effects
 				(font
@@ -14540,7 +14540,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR014")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -14556,7 +14556,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d10079e5-42e1-4b56-8cbd-6cc801df8030")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR048"
 			(at 181.61 137.16 0)
 			(effects
 				(font
@@ -14606,7 +14606,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR053")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -14622,7 +14622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3401165-9159-4ecd-b28b-b38633b36b0d")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR012"
 			(at 58.42 109.22 0)
 			(effects
 				(font
@@ -14673,7 +14673,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR029")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -14689,7 +14689,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d67d7f2a-910a-4568-9f5a-7226b03bd7c2")
-		(property "Reference" "C6"
+		(property "Reference" "C3"
 			(at 104.14 73.6662 0)
 			(effects
 				(font
@@ -14743,7 +14743,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "C6")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -14826,7 +14826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc0b4db3-dcc7-48f5-aa15-d5ca3526ff32")
-		(property "Reference" "R102"
+		(property "Reference" "R6"
 			(at 113.03 171.4499 0)
 			(effects
 				(font
@@ -14880,7 +14880,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "R102")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -14896,7 +14896,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5ac98ce-1fea-4d1e-81db-6f9b016ad303")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR055"
 			(at 228.6 142.24 0)
 			(effects
 				(font
@@ -14946,7 +14946,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR06")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -14962,7 +14962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e606f890-4db3-48fd-b1dc-4058f5a597ea")
-		(property "Reference" "R103"
+		(property "Reference" "R2"
 			(at 90.17 171.4499 0)
 			(effects
 				(font
@@ -15016,7 +15016,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "R103")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -15032,7 +15032,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7dbc5f7-71a2-4f41-a6f2-a78d24a8322b")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR010"
 			(at 48.26 101.6 0)
 			(effects
 				(font
@@ -15083,7 +15083,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR030")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -15099,7 +15099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9630f7b-c12d-4ad8-9260-37b8aeba3526")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 140.6241 76.2 0)
 			(effects
 				(font
@@ -15253,7 +15253,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -15269,7 +15269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed877b76-fa87-4162-b44d-11badd1ad3e4")
-		(property "Reference" "R101"
+		(property "Reference" "R4"
 			(at 101.6 171.4499 0)
 			(effects
 				(font
@@ -15323,7 +15323,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "R101")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -15339,7 +15339,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f517f94f-9112-4fd9-afd4-75363ab3b966")
-		(property "Reference" "Q1"
+		(property "Reference" "Q2"
 			(at 175.26 106.6799 0)
 			(effects
 				(font
@@ -15423,7 +15423,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "Q1")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -15440,7 +15440,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f76b5c12-fba5-4f10-843d-97243c65ab17")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR045"
 			(at 170.18 40.64 0)
 			(effects
 				(font
@@ -15490,7 +15490,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR0101")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -15506,7 +15506,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcdfbd79-3a0c-47f3-aedd-443cce442315")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR011"
 			(at 48.26 104.14 0)
 			(effects
 				(font
@@ -15557,7 +15557,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR028")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -15573,7 +15573,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe26c02d-2cf5-4ecf-a3ad-9946705c3197")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR051"
 			(at 193.04 35.56 0)
 			(effects
 				(font
@@ -15623,7 +15623,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "#PWR026")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -15639,7 +15639,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fee6be58-6f4a-41e8-aaee-fdc84ae0a97b")
-		(property "Reference" "Q2"
+		(property "Reference" "Q1"
 			(at 137.16 106.6799 0)
 			(effects
 				(font
@@ -15723,7 +15723,7 @@
 		(instances
 			(project "Ingenuity"
 				(path "/e0b73e7a-afb5-4c54-9e6c-34c121727ede"
-					(reference "Q2")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
