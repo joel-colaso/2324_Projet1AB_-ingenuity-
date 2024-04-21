@@ -1,5 +1,4 @@
-# 2324_Projet1AB_-ingenuity-
-
+# NASA Project : Ingenuity
 Mars 2020 est une mission spatiale qui consiste à déployer l'astromobile (rover) Perseverance sur le sol martien pour étudier sa surface et collecter des échnatillons du sol. Elle constitue la première d'une série de trois missions dont l'objectif final est de ramener ces échantillons sur Terre pour leur analyse. 
 
 Ingenuity est un petit hélicoptère développé par l'agence spatiale Américaine, la NASA. Il est mis en oeuvre à titre expérimental sur le sol de la planète Mars au cours de la mission Mars 2020.
@@ -15,5 +14,34 @@ Ingenuity a ouvert de nouvelles perspectives pour l'exploration de Mars. La NASA
 
 Dans  ce projet, nous allons tâcher de reproduire le module Ingenuity. 
 
-
 ![Photo ingenuity](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329228/e31ebabd-f48c-485a-bf0c-799dc236c984)
+
+# Notre Projet
+> Courte présentation de votre projet
+
+# Equipe
+> Courte présentation de vous !
+
+# Journal de bord
+> Déroulé séance par séance
+
+## Séance 1
+## Séance 2
+## Séance 3
+## Séance 4
+## Séance 5
+## Séance 6
+## Séance 7
+## Séance 8
+## Séance 9
+## Séance 10
+
+# Livrables
+## PCB
+> Présentation du schéma (grandes lignes) + PCB
+
+## Code
+> Architecture de votre code
+
+## Rendu final
+> Video ici de votre projet
