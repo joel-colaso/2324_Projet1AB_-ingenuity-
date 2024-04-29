@@ -89,6 +89,13 @@ Il faut donc désormais concrétiser cette reflexion et coder ce qui va avec. No
 
 [Inserer schéma Nord-Ouest, Sud]
 
+De plus, on décide d'à partir de cette séance de mettre en place une to-do-list (que voici ci-dessous), dont nous monterons l'avancée lors des séances suivantes. 
+
+    * Coder relation Rasberry - STM
+    * Coder Rasberry pour prendre une photo
+    * Coder moteurs 
+    * Monter le véhicule 
+    * Le faire voler
 
 ## Séance 8
 
