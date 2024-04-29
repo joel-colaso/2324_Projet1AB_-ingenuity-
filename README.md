@@ -1,4 +1,4 @@
-# NASA Project : Ingenuity
+![image](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161328781/69c73a3d-89e3-4545-8ce8-9778b404e89d)# NASA Project : Ingenuity
 Mars 2020 est une mission spatiale qui consiste à déployer l'astromobile (rover) Perseverance sur le sol martien pour étudier sa surface et collecter des échnatillons du sol. Elle constitue la première d'une série de trois missions dont l'objectif final est de ramener ces échantillons sur Terre pour leur analyse. 
 
 Ingenuity est un petit hélicoptère développé par l'agence spatiale Américaine, la NASA. Il est mis en oeuvre à titre expérimental sur le sol de la planète Mars au cours de la mission Mars 2020.
@@ -47,20 +47,46 @@ En somme, nous avons donc finalisé le schéma d'architecture puis rassemblé au
 ## Séance 4
 ### PCB et codage 
 Quatrième semaine de projet, début de la réalisation du PCB de notre hélicoptère. Notre schéma d'architecture étant fini et validé par notre encadrant, nous pouvons donc passer à la réalisation de notre PCB. Dans un premier temps, nous avons donc juste retranscrit notre schéma d'architecture sur un schéma PCB en liant nos différents composants électroniques avec leurs entrées et sorties respectives. 
+
 ![Schema PCB](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161328781/7a225ad6-0fcb-4feb-8c49-53c13f148fa4)
 
+Cepednant, pour faire cela, il y a certains éléments dont nous avons du faire l'empreinte nous même tel que LDO que nous utilisons car il étati indisponible sur KiCAD. 
 
+Au niveau du codage, nous avons juste continué à prendre en main le servo moteur à base de vidéos youtube et différents tests comme simplement lui faire faire des aller-retours. 
 
 ## Séance 5
 ### Routage et toujours codage
+Le schéma du PCB est terminé, il ne nous reste plus que la dernière étape, aussi fastidieuse soit elle : celle du routage. Notre objectif est le suivant : optimiser au mieux la place ainsi que la masse. En effet, il ne faut pas que notre hélicopètre ne pèse trop lourd, il ne décollerait donc pas du sol. 
 
+![Routage PCB](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161328781/8dc03480-77e4-458a-946a-4493e380b637)
+
+Le PCB est donc prêt à être envoyé à l'usinage, c'est donc ce que nous faisons et il ne nous restera plus que la soudure à faire. Il ne reste plus qu'à attendre sa réception maintenant. 
+
+Pour le codage, cette fois les servomoteurs tournent cette fois-ci bien. Désormais, nous nous attaquons à la commande de l'angle de ces derniers. Pour cela, nous créons des fonctions prenant comme paramètre l'angle.  
 
 ## Séance 6
 ### Soudure, Github et encore du codage...
+La moitié des séances ont été faites, et nous voyons de plus en plus notre projet se concrétiser malgré une certaine crainte sur le temps nous restant. Maintenant, on a reçu notre PCB, nous allons donc souder tous nos composants dessus. Pour cela, deux des membres de notre projet s'en occupe, l'un soude pendant que l'autre lui indique les directives (quel élément placé et où). Pour cela, ces deux derniers s'appuient beaucoup sur le BOM proposé par KiCAD. 
 
+[INSERER BOM]
+
+Au niveau du codage, les deux autres membres s'entraident afin d'améliorer au mieux nos fonctions et donc d'optimiser le temps d'éxécution. Les fonctions sont donc créées permettant à un servomoteur de tourner jusqu'à un certain angle donné. 
+
+De plus, le git a été mis à jour car jusque maintenant, on n'uploadait nos divres fichiers et non les pushait. Ainsi, nous avons donc appris à se servir de git dans l'objectif de ne plus jamais upload et juste push.
 
 ## Séance 7
 ### Fin de la soudure, Reflexion sur le montage, mise en page et puis ... du codage
+Lors de la dernière séance, un nous avions soudé un élément qui n'était pas le bon. Ainsi, nous avons du le désouder pour resouder le bon cette fois-ci. 
+
+Suite à ça, nous avons encore une fois divisé le travail en deux équipes différentes. Une s'occupaient de continuer le codage pendant que l'autre commençait la modélisation (puis l'impression) 3D de toute la structure de notre Ingenuity. Nous avons donc imprimé au total une base inférieure carrée, quatres pattes permettant de le voir se poser ainsi qu'une base supérieure. Nous nous sommes très fortement inspiré du vrai véhicule de base quant à sa structure. 
+
+Ensuite est venu une reflexion importante, si ce n'est nécessaire pour faire se déplacer notre véhicule dans toutes les directions possibles et non juste diminuer et monter en altitude. Ainsi, nous avons eu ensemble l'idée d'un système de "balancier" s'appuyant beaucoup sur le centre de gravité de ce dernier. Nous plaçons une masse qui selon sa position par rapport à ce dernier le fera se déplacer. Entre autres, si le masse se situe au nord du centre de gravité, alors l'hélicoptère avancera. Alors que s'il se situe à sa droite, l'hélicoptère se déplacera vers .... la droite. 
+
+[Insérer schéma masses déplacement]
+
+Il faut donc désormais concrétiser cette reflexion et coder ce qui va avec. Nous avons donc coder six fonctions différentes : Nord-Ouest, Sud-Ouest, Sud, Sud-Est, Nord-Est et Nord. Selon la fonction, l'angle des servomoteurs est différents. Voici quelques exemples : 
+
+[Inserer schéma Nord-Ouest, Sud]
 
 
 ## Séance 8
