@@ -99,7 +99,7 @@ De plus, on décide d'à partir de cette séance de mettre en place une to-do-li
 
 ## Séance 8
 ### Réflexion sur l'architecture du code, poursuite du codage et Fin de l'impression des pieces en 3D
-Nous avons vérifié que notre PBD fonctionne correctement en le branchant à un PC sur STM32CubeIDE avec le bon microprocesseur. Il fonctionne bien.
+Nous avons vérifié que notre PCB fonctionne correctement en le branchant à un PC sur STM32CubeIDE avec le bon microprocesseur. Les LEDs s'allument bien ce qui montre que le PCB fonctionne effectivement correctement.
 
 Nous avons fait une architecture pour le code en différenciant les difféfents fichiers .py et .c
 Schéma d'architecture du code en python pour la Raspberry Pi et en language C pour le reste des fichiers :
