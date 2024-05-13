@@ -112,7 +112,8 @@ Machine à état du fichier Instructions.py de l'architecture du code :
 
 Nous avons aussi continué et terminé le code en python en nous avançons bien sur le code en C.
 
-Nous avons aussi continuer les impressions 3D pour avoir le corps de notre drone Ingenuity, une petite boite avec des trous en dessous pour la camera et pour l'altimètre infrarouge. Nous commencerons le collage de toute les parties lors de la prochaine séance.
+Nous avons aussi continué les impressions 3D pour avoir le corps de notre drone Ingenuity, une petite boite avec des trous en dessous pour la camera et pour l'altimètre infrarouge. Nous commencerons le collage de toute les parties lors de la prochaine séance ainsi que l'assemblage des differentes pièces electroniques.
+
 ## Séance 9
 
 ## Séance 10
