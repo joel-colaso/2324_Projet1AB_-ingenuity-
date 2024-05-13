@@ -99,10 +99,12 @@ De plus, on décide d'à partir de cette séance de mettre en place une to-do-li
 
 ## Séance 8
 
-Schéma d'architecture du code en python pour la Raspberry Pi et en language C pourle rreste des fichiers : 
+Schéma d'architecture du code en python pour la Raspberry Pi et en language C pour le reste des fichiers :
+
 ![Architecture Code](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/09e4078a-6924-4214-bd80-c186733cb6c7)
 
-Machine à état du fichier Instructions.py de l'architecture du code : 
+Machine à état du fichier Instructions.py de l'architecture du code :
+
 ![Machine_état_projet](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/7fa27859-f116-408f-95cf-5a3a4e11d432)
 
 ## Séance 9
