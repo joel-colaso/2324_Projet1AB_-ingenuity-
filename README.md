@@ -98,7 +98,10 @@ De plus, on décide d'à partir de cette séance de mettre en place une to-do-li
     * Le faire voler
 
 ## Séance 8
+### Réflexion sur l'architecture du code, poursuite du codage et Fin de l'impression des pieces en 3D
+Nous avons vérifié que notre PBD fonctionne correctement en le branchant à un PC sur STM32CubeIDE avec le bon microprocesseur. Il fonctionne bien.
 
+Nous avons fait une architecture pour le code en différenciant les difféfents fichiers .py et .c
 Schéma d'architecture du code en python pour la Raspberry Pi et en language C pour le reste des fichiers :
 
 ![Architecture Code](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/09e4078a-6924-4214-bd80-c186733cb6c7)
@@ -107,6 +110,9 @@ Machine à état du fichier Instructions.py de l'architecture du code :
 
 ![Machine_état_projet](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/7fa27859-f116-408f-95cf-5a3a4e11d432)
 
+Nous avons aussi continué et terminé le code en python en nous avançons bien sur le code en C.
+
+Nous avons aussi continuer les impressions 3D pour avoir le corps de notre drone Ingenuity, une petite boite avec des trous en dessous pour la camera et pour l'altimètre infrarouge. Nous commencerons le collage de toute les parties lors de la prochaine séance.
 ## Séance 9
 
 ## Séance 10
