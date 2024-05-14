@@ -99,20 +99,21 @@ De plus, on décide d'à partir de cette séance de mettre en place une to-do-li
 
 ## Séance 8
 ### Réflexion sur l'architecture du code, poursuite du codage et Fin de l'impression des pieces en 3D
-Nous avons vérifié que notre PCB fonctionne correctement en le branchant à un PC sur STM32CubeIDE avec le bon microprocesseur. Les LEDs s'allument bien ce qui montre que le PCB fonctionne effectivement correctement.
+Dans un premier temps, nous avons vérifié que notre PCB fonctionne correctement en le branchant à un PC sur STM32CubeIDE en sélectionnant le bon microprocesseur. Les LEDs placés lors de la création de notre PCB s'allument bien, ce qui montre que le PCB fonctionne effectivement correctement.
 
-Nous avons fait une architecture pour le code en différenciant les difféfents fichiers .py et .c
+Ensuite, nous avons réflechi à une architecture pour le code. Le tout en différenciant bien les difféfents fichiers .py et .c. Puisque nous rappelons qu'ici nous aurons besoin des deux langages de codage, l'un pour le microprocesseur et l'autre pour la Rasberry Pi0. 
 Schéma d'architecture du code en python pour la Raspberry Pi et en language C pour le reste des fichiers :
 
 ![Architecture Code](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/09e4078a-6924-4214-bd80-c186733cb6c7)
 
-Machine à état du fichier Instructions.py de l'architecture du code :
+Puis, il était nécessaire de créer une machine à états au sein de notre code. Ainsi, afin d'attaquer au mieux cette partie, nous l'avons réaliser dans un premier temps à l'aide d'un schéma.
+Schéma de la machine à état du fichier Instructions.py de l'architecture du code :
 
 ![Machine_état_projet](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/7fa27859-f116-408f-95cf-5a3a4e11d432)
 
-Nous avons aussi continué et terminé le code en python en nous avançons bien sur le code en C.
+De plus, nous avons réussi à connecter la caméra à la RPI0 et donc ensuite à prendre des photos avec. Le code pour cette action a bien été écrit et éxécuté, c'est donc une de nos fonctionnalités qui est désormais en place. Puis nous avons avancé sur le code en C.
 
-Nous avons aussi continué les impressions 3D pour avoir le corps de notre drone Ingenuity, une petite boite avec des trous en dessous pour la camera et pour l'altimètre infrarouge. Nous commencerons le collage de toute les parties lors de la prochaine séance ainsi que l'assemblage des differentes pièces electroniques.
+Pour conclure cette séance, nous avons continué les impressions 3D pour avoir le corps de notre drone Ingenuity, une petite boite avec des trous en dessous pour la camera et pour l'altimètre infrarouge. Nous commencerons le collage de toute les parties lors de la prochaine séance ainsi que l'assemblage des differentes pièces electroniques.
 
 ## Séance 9
 
