@@ -111,7 +111,10 @@ Schéma de la machine à état du fichier Instructions.py de l'architecture du c
 
 ![Machine_état_projet](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/7fa27859-f116-408f-95cf-5a3a4e11d432)
 
-De plus, nous avons réussi à connecter la caméra à la RPI0 et donc ensuite à prendre des photos avec. Le code pour cette action a bien été écrit et éxécuté, c'est donc une de nos fonctionnalités qui est désormais en place. Puis nous avons avancé sur le code en C.
+De plus, nous avons réussi à connecter la caméra à la RPI0 et donc ensuite à prendre des photos avec. Le code pour cette action a bien été écrit et éxécuté, c'est donc une de nos fonctionnalités qui est désormais en place. Puis nous avons avancé sur le code en C. Et puisque l'on parle de réussite, nous avons testé si notre PCB était bel et bien fonctionnel. Pour cela, ... et comme le montre ci-dessous la capture d'écran, il est bien fonctionnel !
+
+<img width="960" alt="thumbnail_Capture d’écran 2024-05-13 à 16 48 47" src="https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161328781/a069209d-f66e-4c76-8e5a-06d7910f4c90">
+
 
 Pour conclure cette séance, nous avons continué les impressions 3D pour avoir le corps de notre drone Ingenuity, une petite boite avec des trous en dessous pour la camera et pour l'altimètre infrarouge. Nous commencerons le collage de toute les parties lors de la prochaine séance ainsi que l'assemblage des differentes pièces electroniques.
 
