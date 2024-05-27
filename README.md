@@ -111,7 +111,7 @@ Schéma de la machine à état du fichier Instructions.py de l'architecture du c
 
 ![Machine_état_projet](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/7fa27859-f116-408f-95cf-5a3a4e11d432)
 
-De plus, nous avons réussi à connecter la caméra à la RPI0 et donc ensuite à prendre des photos avec. Le code pour cette action a bien été écrit et éxécuté, c'est donc une de nos fonctionnalités qui est désormais en place. Puis nous avons avancé sur le code en C. Et puisque l'on parle de réussite, nous avons testé si notre PCB était bel et bien fonctionnel. Pour cela, ... et comme le montre ci-dessous la capture d'écran, il est bien fonctionnel !
+De plus, nous avons réussi à connecter la caméra à la RPI0 et donc ensuite à prendre des photos avec. Le code pour cette action a bien été écrit et éxécuté, c'est donc une de nos fonctionnalités qui est désormais en place. Puis nous avons avancé sur le code en C. Et puisque l'on parle de réussite, nous avons testé si notre PCB était bel et bien fonctionnel. Et en effet, il était bel et bien fonctionnel !
 
 <img width="960" alt="thumbnail_Capture d’écran 2024-05-13 à 16 48 47" src="https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161328781/a069209d-f66e-4c76-8e5a-06d7910f4c90">
 
@@ -119,6 +119,15 @@ De plus, nous avons réussi à connecter la caméra à la RPI0 et donc ensuite �
 Pour conclure cette séance, nous avons continué les impressions 3D pour avoir le corps de notre drone Ingenuity, une petite boite avec des trous en dessous pour la camera et pour l'altimètre infrarouge. Nous commencerons le collage de toute les parties lors de la prochaine séance ainsi que l'assemblage des differentes pièces electroniques.
 
 ## Séance 9
+### Présentation et derniers apports
+Avant dernière séance, et pas des moindres. Lors de celle-ci, nous avons commencé par la présentation de notre projet à l'oral devant tout notre groupe ainsi que notre professeur référent. Nous avons dans un premier temps parler de la mission Mars 2020 de la NASA pour introduire notre projet. Puis nous avons expliqué étape par étape (comme le fait ce compte-rendu séance par séance) comment nous fonctionnions au sein de ce dernier. 
+
+[Projet 1A - Ingenuity.pptx](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/files/15461084/Projet.1A.-.Ingenuity.pptx)
+
+
+Une fois ceci fait, il fallait nous hater à terminer (ou du moins avancer le plus possible) notre projet puisque notre démonstration a lieu le lendemain, et pour l'instant notre véhicule ne décole pas. Alors nous avons comme d'habitude diviser le groupe, pendant que deux finissait les impressions 3D et commencer à monter la "coque" du véhicule, deux autres codaient. L'un s'occupait de finir le programme permettant de faire tourner les deux moteurs (langage C) pendant que l'autre s'occupait de finir le code permettant la liaison de la RPI0 à notre processeur STM32 (langage Python)
+
+À la toute fin de la séance, le code python était terminé, nous pouvions donc commander notre hélico en lui disant dans quelle direction il devait se dirigier (Nord, Sud, Est ou Ouest) mais aussi si l'on voulait prendre une photo avec la caméra implémentée. 
 
 ## Séance 10
 
