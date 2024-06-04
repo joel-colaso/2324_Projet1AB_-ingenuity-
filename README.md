@@ -130,15 +130,19 @@ Une fois ceci fait, il fallait nous hater à terminer (ou du moins avancer le pl
 À la toute fin de la séance, le code python était terminé, nous pouvions donc commander notre hélico en lui disant dans quelle direction il devait se dirigier (Nord, Sud, Est ou Ouest) mais aussi si l'on voulait prendre une photo avec la caméra implémentée. 
 
 ## Séance 10
-### Dernière modification et démonstration 
+### Dernières modifications et démonstration 
 Dernière séance, nous devons faire en sorte que notre hélicoptère vole aujourd'hui. Malgré des efforts acharnés de tous les côtés, ils ne décolle pas pour plusieurs raisons : manque de code, mais aussi trop lourd. On reste donc sur un échec mais qui nous a apprit énormément de choses. Nous sommes fiers et heureux de pouvoir reprendre ce projet l'année prochaine afin de cette fois-ci, le terminer et le faire se déplacer. 
 
 # Livrables
 ## PCB
-![Schema PCB](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161328781/7a225ad6-0fcb-4feb-8c49-53c13f148fa4)
+Voici une capture d'écran de notre PCB une fois routé. On reconnait bien les différentes parties que nous avons prit le soin de nommer. 
+
+![Routage PCB](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161328781/8dc03480-77e4-458a-946a-4493e380b637)
+
 
 ## Code
-> Architecture de votre code
+Même si ce dernier n'est pas fini, nous avions probablement le plus important : l'architecture. 
 
-## Rendu final
-> Video ici de votre projet
+![Architecture Code](https://github.com/joel-colaso/2324_Projet1AB_-ingenuity-/assets/161329173/09e4078a-6924-4214-bd80-c186733cb6c7)
+
+## A l'année prochaine !
